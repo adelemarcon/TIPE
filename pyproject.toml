@@ -9,6 +9,7 @@ readme = "README.md"
 python = "^3.12"
 numpy = "^2.1.2"
 matplotlib = "^3.9.2"
+seaborn = "^0.13.2"
 
 
 [build-system]
